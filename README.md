@@ -49,7 +49,7 @@ cd Frontend && npm run dev -- --host 0.0.0.0
 ![Login Screen](assets/login-screen.png)
 
 ### Home Screen
-![Home Screen](assets/home-screen.png)
+![Home Screen](assets/strategy-input.png)
 
 ### Interview Report
 ![Interview Report](assets/report-page.png)
