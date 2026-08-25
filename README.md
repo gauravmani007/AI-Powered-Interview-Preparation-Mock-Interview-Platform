@@ -45,13 +45,14 @@ cd Frontend && npm run dev -- --host 0.0.0.0
 
 ## Screenshots
 
-Add screenshots of the app UI here after running the project locally.
+### Login Screen
+![Login Screen](assets/login-screen.png)
 
-Example:
-- Home page
-- Job description form
-- Generated interview report
-- Roadmap view
+### Home Screen
+![Home Screen](assets/home-screen.png)
+
+### Interview Report
+![Interview Report](assets/report-page.png)
 
 ## Notes
 - The project is configured for local development.
