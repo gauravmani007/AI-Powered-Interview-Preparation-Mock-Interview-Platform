@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-**AI-Powered Mock Interview Platform** bridge the gap between job descriptions and candidate preparation. By analyzing target job specs against your resume or quick self-description, the platform generates personalized 3-day action plans, practice questions, match scores, and skill gap highlights in seconds.
+**AI-Powered Mock Interview Platform** bridges the gap between job descriptions and candidate preparation. By analyzing target job specifications against your resume or quick self-description, the platform generates personalized 3-day action plans, practice questions, match scores, and skill gap highlights in seconds.
 
 ---
 
@@ -51,18 +51,22 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>1. Target Job & Profile Upload</b><br><br>
-      <img src="assets/strategy-input.png" alt="Strategy Input Screen" width="100%"/>
+      <b>1. Login Screen</b><br><br>
+      <img src="./assets/login-screen.png" alt="Login Screen" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <b>2. Preparation Roadmap & Score</b><br><br>
-      <img src="assets/roadmap-screen.png" alt="Roadmap Screen" width="100%"/>
+      <b>2. Home Screen (Job & Profile Input)</b><br><br>
+      <img src="./assets/home-screen.png.png" alt="Home Screen" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <b>3. Targeted Behavioral & Technical Questions</b><br><br>
-      <img src="assets/questions-screen.png" alt="Questions Screen" width="85%"/>
+    <td align="center" width="50%">
+      <b>3. Preparation Report & Roadmap</b><br><br>
+      <img src="./assets/Report-generate.png" alt="Report Generation Screen" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <b>4. Technical & Behavioral Questions</b><br><br>
+      <img src="./assets/Technical-question.png.png" alt="Technical Questions Screen" width="100%"/>
     </td>
   </tr>
 </table>
